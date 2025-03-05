@@ -106,6 +106,7 @@ chmod +x myscript.sh
 
 ![417051518-bdb5a52e-f093-4767-9cb1-0c4ffc8fe11f](https://github.com/user-attachments/assets/f396c9f4-01fc-4131-947f-b5f8ade7666a)
 
+![417051556-73eb14f7-96b1-4685-82de-234802e0831b](https://github.com/user-attachments/assets/e7b3d770-ef95-4422-af30-f3455aef0968)
 
  
 
