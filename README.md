@@ -100,17 +100,21 @@ chmod +x myscript.sh
 ```
 ./myscript.sh
 ```
-## OUTPUT
+
 ### REG NUMBER:212223230057
 ### NAME:Farhana H
+## Configuration of Kali Linux on Oracle Virtual Box :
 
-![417051518-bdb5a52e-f093-4767-9cb1-0c4ffc8fe11f](https://github.com/user-attachments/assets/f396c9f4-01fc-4131-947f-b5f8ade7666a)
+ ![421260654-7481ebf5-8edd-4cb2-87cc-e8e64ec9cafc](https://github.com/user-attachments/assets/3e41b937-cee7-48dd-a921-861cf2a871c7)
+## output:
+
+![421258284-cc481926-bcfc-4901-b74d-7f5c76beabd5](https://github.com/user-attachments/assets/cb56f5a8-36af-45d0-8935-87223b385fd1)
 
 
+![421258755-ddc08a53-e155-4a5c-afa4-d4a9429696d3](https://github.com/user-attachments/assets/fb0ba605-5867-4923-a913-83e4abbe9293)
 
-![417051556-73eb14f7-96b1-4685-82de-234802e0831b](https://github.com/user-attachments/assets/e7b3d770-ef95-4422-af30-f3455aef0968)
 
- 
+![421262652-a30e5d51-d55c-4ea1-8a39-6bc60e80b50b](https://github.com/user-attachments/assets/8de3afba-252e-44e6-84d8-df6e157bfad9)
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
